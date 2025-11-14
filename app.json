@@ -22,7 +22,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/DarwenFClogo.png",
+        "foregroundImage": "./assets/DarwenFCLogo.png",
         "backgroundColor": "#ffffff"
       },
       "package": "com.wdbmagic.darwenfc",
