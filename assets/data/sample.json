@@ -1,0 +1,202 @@
+{
+    "data": {
+        "tableStandings": {
+            "errors": [],
+            "get": "standings",
+            "parameters": {
+                "lgetable": 1
+            },
+            "response": [
+                {
+                   "position": 1,
+                   "image": "https://nwcfl.com/images/crests/transparent/5.png",
+                   "team": "Atherton LR",
+                   "played": 9,
+                   "goal_difference": 11,
+                   "points": 22,
+                   "league": "First Division North"
+                },
+                    
+                {
+                    "position": 2,
+                    "image": "https://nwcfl.com/images/crests/transparent/35.png",
+                    "team": "Nelson",
+                    "played": 9,
+                    "goal_difference": 14,
+                    "points": 21,
+                    "league": "First Division North"
+                },
+
+                {
+                    "position": 3,
+                    "image": "https://nwcfl.com/images/crests/transparent/32.png",
+                    "team": "Holker Old Boys",
+                    "played": 9,
+                    "goal_difference": 11,
+                    "points": 20,
+                    "league": "First Division North"
+                },
+
+                {
+                    "position": 4,
+                    "image": "https://nwcfl.com/images/crests/transparent/132.png",
+                    "team": "Droylsden",
+                    "played": 8,
+                    "goal_difference": 11,
+                    "points": 19,
+                    "league": "First Division North"
+                  },
+
+                  {
+                    "position": 5,
+                    "image": "https://nwcfl.com/images/crests/transparent/13.png",
+                    "team": "Maine Road",
+                    "played": 9,
+                    "goal_difference": 4,
+                    "points": 15,
+                    "league": "First Division North"
+                  },
+
+                  {
+                    "position": 6,
+                    "image": "https://nwcfl.com/images/crests/transparent/469.png",
+                    "team": "Maghull",
+                    "played": 8,
+                    "goal_difference": 3,
+                    "points": 14,
+                    "league": "First Division North"
+                  },
+
+                  {
+                    "position": 7,
+                    "image": "https://nwcfl.com/images/crests/transparent/6.png",
+                    "team": "Bacup Borough",
+                    "played": 9,
+                    "goal_difference": 6,
+                    "points": 13,
+                    "league": "First Division North"
+                  },
+
+                  {
+                    "position": 8,
+                    "image": "https://nwcfl.com/images/crests/transparent/897.png",
+                    "team": "Euxton Villa",
+                    "played": 7,
+                    "goal_difference": 5,
+                    "points": 13,
+                    "league": "First Division North"
+                  },
+
+                  {
+                    "position": 9,
+                    "image": "https://nwcfl.com/images/crests/transparent/1.png",
+                    "team": "AFC Blackpool",
+                    "played": 9,
+                    "goal_difference": 3,
+                    "points": 13,
+                    "league": "First Division North"
+                  },
+
+                  {
+                    "position": 10,
+                    "image": "https://nwcfl.com/images/crests/transparent/25.png",
+                    "team": "Ashton Town",
+                    "played": 8,
+                    "goal_difference": -1,
+                    "points": 11,
+                    "league": "First Division North"
+                  },
+
+                  {
+                    "position": 11,
+                    "image": "https://nwcfl.com/images/crests/transparent/29.png",
+                    "team": "Daisy Hill",
+                    "played": 9,
+                    "goal_difference": 0,
+                    "points": 10,
+                    "league": "First Division North"
+                  },
+
+                  {
+                    "position": 12,
+                    "image": "https://nwcfl.com/images/crests/transparent/4.png",
+                    "team": "Ashton Athletic",
+                    "played": 8,
+                    "goal_difference": -12,
+                    "points": 10,
+                    "league": "First Division North"
+                  },
+
+                  {
+                    "position": 13,
+                    "image": "https://nwcfl.com/images/crests/transparent/24.png",
+                    "team": "Darwen FC",
+                    "played": 8,
+                    "goal_difference": 0,
+                    "points": 9,
+                    "league": "First Division North"
+                  },
+
+                  {
+                    "position": 14,
+                    "image": "https://nwcfl.com/images/crests/transparent/932.png",
+                    "team": "Thornton-Cleveleys",
+                    "played": 9,
+                    "goal_difference": -5,
+                    "points": 9,
+                    "league": "First Division North"
+                  },
+
+                  {
+                    "position": 15,
+                    "image": "https://nwcfl.com/images/crests/transparent/712.png",
+                    "team": "Steeton",
+                    "played": 9,
+                    "goal_difference": -9,
+                    "points": 9,
+                    "league": "First Division North"
+                  },
+
+                  {
+                    "position": 16,
+                    "image": "https://nwcfl.com/images/crests/transparent/920.png",
+                    "team": "Route One Rovers",
+                    "played": 8,
+                    "goal_difference": -11,
+                    "points": 4,
+                    "league": "First Division North"
+                  },
+
+                  {
+                    "position": 17,
+                    "image": "https://nwcfl.com/images/crests/transparent/831.png",
+                    "team": "Garstang",
+                    "played": 9,
+                    "goal_difference": -15,
+                    "points": 4,
+                    "league": "First Division North"
+                  },
+
+                  {
+                    "position": 18,
+                    "image": "https://nwcfl.com/images/crests/transparent/162.png",
+                    "team": "Skelmersdale Utd",
+                    "played": 7,
+                    "goal_difference": -15,
+                    "points": 2,
+                    "league": "First Division North"
+                  },
+
+                  {
+                    "position": 19,
+                    "image": "https://nwcfl.com/images/crests/transparent/240.png",
+                    "team": "Stockport Georgians",
+                    "played": 7,
+                    "goal_difference": -15,
+                    "points": 2,
+                    "league": "The Isuzu FA Vase 1st Qualifying Round"
+                  }
+            ]
+        }
+    }
+}

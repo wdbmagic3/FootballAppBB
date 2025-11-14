@@ -1,0 +1,172 @@
+{
+    "data": {
+        "tablePlayers": {
+            "errors": [],
+            "get": "players",
+            "parameters": {
+                "playerlist": 1
+            },
+            "response": [
+                {
+                    "squadnumber": 1,
+                    "image": "https://nwcfl.com/images/crests/transparent/24.png",
+                    "name": "Louis Hood",
+                    "age": 24,
+                    "position": "GK",
+                    "appearances": 11,
+                    "goals": 0 
+                },
+
+                {
+                    "squadnumber": 2,
+                    "image": "https://nwcfl.com/images/crests/transparent/24.png",
+                    "name": "Josh Knowles",
+                    "age": 24,
+                    "position": "GK",
+                    "appearances": 0,
+                    "goals": 0  
+                },
+
+                {
+                    "squadnumber": 3,
+                    "image": "https://nwcfl.com/images/crests/transparent/24.png",
+                    "name": "Pawel Zuk",
+                    "age": 24,
+                    "position": "DEF",
+                    "appearances": 22,
+                    "goals": 1  
+                },
+                
+                {
+                    "squadnumber": 4,
+                    "image": "https://nwcfl.com/images/crests/transparent/24.png",
+                    "name": "Nano Baptista",
+                    "age": 24,
+                    "position": "DEF",
+                    "appearances": 22,
+                    "goals": 1  
+                },
+                
+                {
+                    "squadnumber": 5,
+                    "image": "https://nwcfl.com/images/crests/transparent/24.png",
+                    "name": "Samuel Ogundare",
+                    "age": 24,
+                    "position": "DEF",
+                    "appearances": 22,
+                    "goals": 1  
+                },
+
+                {
+                    "squadnumber": 6,
+                    "image": "https://nwcfl.com/images/crests/transparent/24.png",
+                    "name": "Anthony Hodges",
+                    "age": 24,
+                    "position": "DEF",
+                    "appearances": 22,
+                    "goals": 1  
+                },
+                
+                {
+                    "squadnumber": 7,
+                    "image": "https://nwcfl.com/images/crests/transparent/24.png",
+                    "name": "Akim Samms",
+                    "age": 24,
+                    "position": "MID",
+                    "appearances": 22,
+                    "goals": 1  
+                },
+                
+                {
+                    "squadnumber": 8,
+                    "image": "https://nwcfl.com/images/crests/transparent/24.png",
+                    "name": "Luke Crompton",
+                    "age": 24,
+                    "position": "MID",
+                    "appearances": 22,
+                    "goals": 1  
+                },
+                
+                {
+                    "squadnumber": 9,
+                    "image": "https://nwcfl.com/images/crests/transparent/24.png",
+                    "name": "Nathan Bond",
+                    "age": 24,
+                    "position": "FOR",
+                    "appearances": 22,
+                    "goals": 1  
+                },
+                
+                {
+                    "squadnumber": 10,
+                    "image": "https://nwcfl.com/images/crests/transparent/24.png",
+                    "name": "Bruno De Almeida Severino",
+                    "age": 24,
+                    "position": "FOR",
+                    "appearances": 22,
+                    "goals": 1  
+                },
+                
+                {
+                    "squadnumber": 11,
+                    "image": "https://nwcfl.com/images/crests/transparent/24.png",
+                    "name": "Joshua Abbott",
+                    "age": 24,
+                    "position": "FOR",
+                    "appearances": 22,
+                    "goals": 1  
+                },
+                
+                {
+                    "squadnumber": 12,
+                    "image": "https://nwcfl.com/images/crests/transparent/24.png",
+                    "name": "Bobby Langford",
+                    "age": 24,
+                    "position": "FOR",
+                    "appearances": 22,
+                    "goals": 1  
+                },
+                
+                {
+                    "squadnumber": 14,
+                    "image": "https://nwcfl.com/images/crests/transparent/24.png",
+                    "name": "Kit Lloyd",
+                    "age": 24,
+                    "position": "FOR",
+                    "appearances": 22,
+                    "goals": 1  
+                },
+                
+                {
+                    "squadnumber": 15,
+                    "image": "https://nwcfl.com/images/crests/transparent/24.png",
+                    "name": "Jack Gooden",
+                    "age": 24,
+                    "position": "FOR",
+                    "appearances": 22,
+                    "goals": 1  
+                },
+                
+                {
+                    "squadnumber": 16,
+                    "image": "https://nwcfl.com/images/crests/transparent/24.png",
+                    "name": "Bobby Sixsmith",
+                    "age": 24,
+                    "position": "FOR",
+                    "appearances": 22,
+                    "goals": 1  
+                },
+                
+                {
+                    "squadnumber": 17,
+                    "image": "https://nwcfl.com/images/crests/transparent/24.png",
+                    "name": "Abdullah Zaffar",
+                    "age": 24,
+                    "position": "FOR",
+                    "appearances": 22,
+                    "goals": 1  
+                }  
+            ]
+        }
+    }
+}

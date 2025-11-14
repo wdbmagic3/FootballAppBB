@@ -1,0 +1,353 @@
+{
+    "data": {
+      "fixtures": {
+        "errors": [],
+        "response": [
+          {
+            "date": "2024-07-27",
+            "id": 1671,
+            "season": 2024,
+            "status": "Completed",
+            "type": "Fixture",
+            "competition": {
+              "id": 2,
+              "name": "Bacup Borough",
+              "location": {
+                "venue": "Away"              
+              }
+            },
+            "ground": {
+              "id": 2,
+              "image": "https://nwcfl.com/images/clubs/Ashton%20Athletic/ground1.jpg",
+              "name": "Brian Boys Stadium",
+              "score": {
+                "ashton": "0",
+                "opponent": "5"                
+              },
+              "halftime_score": {
+                "ashton":"0",
+                "opponent":"1"
+              },
+              "attendance": 165,
+              "ashton_scorers": [],
+              "opponent_scorers": ["Hewitt", "Wright(2)", "Morris", "Hodgson"]
+            }            
+          },
+          
+          {
+            "date": "2024-07-30",
+            "id": 1672,
+            "season": 2024,
+            "status": "Completed",
+            "type": "Fixture",
+            "competition": {
+              "id": 3,
+              "name": "Maghull",
+              "location": {
+                "venue": "Home"              
+              }
+            },
+            "ground": {
+              "id": 3,
+              "image": "https://nwcfl.com/images/clubs/Ashton%20Athletic/ground1.jpg",
+              "name": "Brocstedes Park",
+              "score": {
+                "ashton": "2",
+                "opponent": "2"                
+              },
+              "halftime_score": {
+                "ashton":"0",
+                "opponent":"0"
+              },
+              "attendance": 120,
+              "ashton_scorers": ["Wilson, Nicholson"],
+              "opponent_scorers": ["Burke, Till"]
+
+            }
+          },            
+        
+          {
+            "date": "2024-08-03",
+            "id": 1673,
+            "season": 2024,
+            "status": "Completed",
+            "type": "Fixture",
+            "competition": {
+              "id": 4,
+              "name": "Skelmersdale Utd",
+              "location": {
+                "venue": "Away"              
+              }
+            },
+            "ground": {
+              "id": 3,
+              "image": "https://www.nwcfl.com/images/clubs/Skelmersdale%20United/JMO.jpg",
+              "name": "The Community Ground",
+              "score": {
+                "ashton": "1",
+                "opponent": "0"                
+              },
+              "halftime_score": {
+                "ashton":"1",
+                "opponent":"0"
+              },
+              "attendance": 131,
+              "ashton_scorers": [],
+              "opponent_scorers": []
+
+            }
+          },
+          
+          
+          {
+            "date": "2024-08-06",
+            "id": 1674,
+            "season": 2024,
+            "status": "Completed",
+            "type": "Fixture",
+            "competition": {
+              "id": 5,
+              "name": "Atherton LR",
+              "location": {
+                "venue": "Home"              
+              }
+            },
+            "ground": {
+              "id": 5,
+              "image": "https://nwcfl.com/images/clubs/Ashton%20Athletic/ground1.jpg",
+              "name": "Brocstedes Park",
+              "score": {
+                "ashton": "0",
+                "opponent": "2"                
+              },
+              "halftime_score": {
+                "ashton":"0",
+                "opponent":"1"
+              },
+              "attendance": 132,
+              "ashton_scorers": [],
+              "opponent_scorers": []
+            },
+            "fastest_lap": {
+              "driver": {
+                "id": null
+              },
+              "time": null
+            }
+          },
+          {
+            "date": "2024-08-10",
+            "id": 1675,
+            "season": 2024,
+            "status": "Completed",
+            "type": "Fixture",
+            "competition": {
+              "id": 6,
+              "name": "Route One Rovers",
+              "location": {
+                "venue": "Away"              
+              }
+            },
+            "ground": {
+              "id": 6,
+              "image": "https://www.nwcfl.com/images/clubs/Route%20One%20Rovers/celebration.jpg",
+              "name": "Marley Stadium",
+              "score": {
+                "ashton": "1",
+                "opponent": "0"                
+              },
+              "halftime_score": {
+                "ashton":"0",
+                "opponent":"0"
+              },
+              "attendance": 72,
+              "ashton_scorers": [],
+              "opponent_scorers": []
+            },
+            "fastest_lap": {
+              "driver": {
+                "id": 83
+              },
+              "time": "1:33.996"
+            }
+          },
+          {
+            "date": "2024-08-13",
+            "id": 1676,
+            "season": 2024,
+            "status": "Completed",
+            "type": "Fixture",
+            "competition": {
+              "id": 7,
+              "name": "Darwen FC",
+              "location": {
+                "venue": "Home"              
+              }
+            },
+            "ground": {
+              "id": 7,
+              "image": "https://nwcfl.com/images/clubs/Ashton%20Athletic/ground1.jpg",
+              "name": "Brocstedes Park",
+              "score": {
+                "ashton": "1",
+                "opponent": "5"                
+              },
+              "halftime_score": {
+                "ashton":"0",
+                "opponent":"4"
+              },
+              "attendance": 70,
+              "ashton_scorers": ["Wilson"],
+              "opponent_scorers": ["Devenney", "Foster(2)", "Creech", "Rio-Heyes"]
+            },
+            "fastest_lap": {
+              "driver": {
+                "id": 83
+              },
+              "time": "1:33.996"
+            }
+          },
+
+          {
+            "date": "2024-08-17",
+            "id": 1677,
+            "season": 2024,
+            "status": "Completed",
+            "type": "Fixture",
+            "competition": {
+              "id": 8,
+              "name": "Thornton-Cleveleys",
+              "location": {
+                "venue": "Away"              
+              }
+            },
+            "ground": {
+              "id": 8,
+              "image": "https://www.nwcfl.com/images/clubs/General%20Images/ball1.jpg",
+              "name": "Gamble Road",
+              "score": {
+                "ashton": "2",
+                "opponent": "1"                
+              },
+              "halftime_score": {
+                "ashton":"1",
+                "opponent":"0"
+              },
+              "attendance": 168,
+              "ashton_scorers": ["High(2)"],
+              "opponent_scorers": ["Stoney"]
+            },
+            "fastest_lap": {
+              "driver": {
+                "id": 83
+              },
+              "time": "1:33.996"
+            }
+          },
+
+          {
+            "date": "2024-08-20",
+            "id": 1678,
+            "season": 2024,
+            "status": "Completed",
+            "type": "Fixture",
+            "competition": {
+              "id": 9,
+              "name": "Droylsden",
+              "location": {
+                "venue": "Away"              
+              }
+            },
+            "ground": {
+              "id": 9,
+              "image": "https://www.nwcfl.com/images/clubs/Droylsden/behindgoal.jpg",
+              "name": "The Butchers Arms",
+              "score": {
+                "ashton": "1",
+                "opponent": "5"                
+              },
+              "halftime_score": {
+                "ashton":"1",
+                "opponent":"4"
+              },
+              "attendance": 568,
+              "ashton_scorers": ["Joshua Nicholson"],
+              "opponent_scorers": ["Caelan Kilheeney", "Eoin Charles", "Fuad Kasali", "Eoin Charles", "Mauro Mendes"]
+            },
+            "fastest_lap": {
+              "driver": {
+                "id": 83
+              },
+              "time": "1:33.996"
+            }
+          },
+
+          {
+            "date": "2024-08-24",
+            "id": 1680,
+            "season": 2024,
+            "status": "Completed",
+            "type": "Fixture",
+            "competition": {
+              "id": 3,
+              "name": "Stockport Georgians",
+              "location": {
+                "venue": "Home"              
+              }
+            },
+            "ground": {
+              "id": 3,
+              "image": "https://nwcfl.com/images/clubs/Ashton%20Athletic/ground1.jpg",
+              "name": "Brocstedes Park",
+              "score": {
+                "ashton": "2",
+                "opponent": "1"                
+              },
+              "halftime_score": {
+                "ashton":"1",
+                "opponent":"1"
+              },
+              "attendance": 60,
+              "ashton_scorers": ["Hill", "White"],
+              "opponent_scorers": ["Atkinson"]
+
+            }
+          },
+          
+          {
+            "date": "2024-08-26",
+            "id": 1681,
+            "season": 2024,
+            "status": "Completed",
+            "type": "Fixture",
+            "competition": {
+              "id": 3,
+              "name": "Ashton Town",
+              "location": {
+                "venue": "Home"              
+              }
+            },
+            "ground": {
+              "id": 3,
+              "image": "https://nwcfl.com/images/clubs/Ashton%20Athletic/ground1.jpg",
+              "name": "Brocstedes Park",
+              "score": {
+                "ashton": "3",
+                "opponent": "0"                
+              },
+              "halftime_score": {
+                "ashton":"2",
+                "opponent":"0"
+              },
+              "attendance": 305,
+              "ashton_scorers": ["Nathan Beca", "Joshua High", "Deklan Hill"],
+              "opponent_scorers": []
+            }
+          } 
+
+        ],
+        "results": 2
+      }
+    }
+  }
+  

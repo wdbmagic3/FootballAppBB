@@ -1,0 +1,48 @@
+{
+    "data": {
+        "matches": {
+            "errors": [],
+            "response": [
+                {
+                    "matchday": 1,
+                    "date": "2024-07-27",
+                    "time": "15:00",
+                    "home_team": "Bacup Borough",
+                    "away_team": "Ashton Athletic",
+                    "stadium": "Sample Stadium",
+                    "result": {
+                    "home_team_score": 5,
+                    "away_team_score": 0
+                    },
+                    "status": "Completed"
+                },
+                {
+                    "matchday": 2,
+                    "date": "2024-09-05",
+                    "time": "19:45",
+                    "home_team": "Ashton Athletic",
+                    "away_team": "Maghull",
+                    "stadium": "Brocstedes Stadium",
+                    "result": {
+                    "home_team_score": 2,
+                    "away_team_score": 2
+                    },
+                    "status": "Completed"
+                },
+                {
+                    "matchday": 3,
+                    "date": "2024-08-24",
+                    "time": "15:00",
+                    "home_team": "Ashton Athletic",
+                    "away_team": "Stockport Georgians",
+                    "stadium": "Brocstedes Park",
+                    "result": {
+                    "home_team_score": null,
+                    "away_team_score": null
+                    },
+                    "status": "Scheduled"
+                }
+            ]
+        }
+    }
+}

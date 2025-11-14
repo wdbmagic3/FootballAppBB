@@ -2,20 +2,19 @@ import { Stack } from "expo-router";
 import { StatusBar } from 'expo-status-bar';
 import React, { useEffect, useState } from 'react';
 import { ActivityIndicator, Button, View } from 'react-native';
-import { AshtonFixtureList } from '../functions/fixture-interfaces';
-import { TeamList } from '../functions/team-interfaces';
-import { getFixtures, getAshtonTeams, getBamberFixtures, getBamberTeams } from '../functions/network';
+import { IconButton } from "react-native-paper";
 import { DataSource, SourceToColours, SourceToShortString } from '../Constants/DataSources';
 import { NormaliseFixtureResponse } from '../functions/conversion';
-import { Fixture } from "../functions/fixture-interfaces";
-import { IconButton } from "react-native-paper";
+import { AshtonFixtureList, Fixture } from '../functions/fixture-interfaces';
+import { getAshtonTeams, getBamberFixtures, getBamberTeams, getFixtures } from '../functions/network';
+import { TeamList } from '../functions/team-interfaces';
 
 
 
 
 export const FixtureContext = React.createContext<{fixtureData: Fixture[], setFixtureData: React.Dispatch<React.SetStateAction<Fixture[]>>}>({fixtureData: [], setFixtureData: () => {}});
 export const TeamContext = React.createContext<{teamData: TeamList, setTeamData: React.Dispatch<React.SetStateAction<TeamList>>}>({teamData: [], setTeamData: () => {}});
-export const DataContext = React.createContext<DataSource>(DataSource.AshtonAthletic);
+export const DataContext = React.createContext<DataSource>(DataSource.Darwen);
 
 
 
@@ -27,7 +26,7 @@ export default function RootLayout() {
   const [fixtureData, setFixtureData] = useState<Fixture[]>([]);
   const [teamData, setTeamData] = useState<TeamList>([]);
   const [refreshBool, setRefreshBool] = useState(false);
-  const [dataSource, setDataSource] = useState(DataSource.AshtonAthletic);
+  const [dataSource, setDataSource] = useState(DataSource.Darwen);
   const [previouslyLoaded] = useState<{source: DataSource, fixtureData: Fixture[]}[]>([])
 
   useEffect(() => {
@@ -54,7 +53,7 @@ export default function RootLayout() {
 
   const TeamButton = (props: {source: DataSource}) => {
     const isSelected = dataSource == props.source;
-    const defaultSource = DataSource.AshtonAthletic;
+    const defaultSource = DataSource.Darwen;
     const defaultString = SourceToShortString(defaultSource);
     const sourceString = SourceToShortString(props.source);
     const buttonColour = SourceToColours(isSelected ? defaultSource : props.source).button;

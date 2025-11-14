@@ -1,0 +1,172 @@
+{
+    "data": {
+        "tablePlayers": {
+            "errors": [],
+            "get": "players",
+            "parameters": {
+                "playerlist": 1
+            },
+            "response": [
+                {
+                    "squadnumber": 1,
+                    "image": "https://nwcfl.com/images/crests/transparent/24.png",
+                    "name": "Joe Beswick",
+                    "age": 24,
+                    "position": "GK",
+                    "appearances": 22,
+                    "goals": 0 
+                },
+
+                {
+                    "squadnumber": 2,
+                    "image": "https://nwcfl.com/images/crests/transparent/24.png",
+                    "name": "Ewan Dodgson",
+                    "age": 24,
+                    "position": "GK",
+                    "appearances": 22,
+                    "goals": 0  
+                },
+
+                {
+                    "squadnumber": 3,
+                    "image": "https://nwcfl.com/images/crests/transparent/24.png",
+                    "name": "Aleksander Calaku",
+                    "age": 24,
+                    "position": "DEF",
+                    "appearances": 22,
+                    "goals": 1  
+                },
+                
+                {
+                    "squadnumber": 4,
+                    "image": "https://nwcfl.com/images/crests/transparent/24.png",
+                    "name": "Calum Wilson",
+                    "age": 24,
+                    "position": "DEF",
+                    "appearances": 22,
+                    "goals": 1  
+                },
+                
+                {
+                    "squadnumber": 5,
+                    "image": "https://nwcfl.com/images/crests/transparent/24.png",
+                    "name": "Samuel Oko",
+                    "age": 24,
+                    "position": "DEF",
+                    "appearances": 22,
+                    "goals": 1  
+                },
+
+                {
+                    "squadnumber": 6,
+                    "image": "https://nwcfl.com/images/crests/transparent/24.png",
+                    "name": "Zach Conway",
+                    "age": 24,
+                    "position": "DEF",
+                    "appearances": 22,
+                    "goals": 1  
+                },
+                
+                {
+                    "squadnumber": 7,
+                    "image": "https://nwcfl.com/images/crests/transparent/24.png",
+                    "name": "William Adams",
+                    "age": 24,
+                    "position": "MID",
+                    "appearances": 22,
+                    "goals": 1  
+                },
+                
+                {
+                    "squadnumber": 8,
+                    "image": "https://nwcfl.com/images/crests/transparent/24.png",
+                    "name": "Luke Crompton",
+                    "age": 24,
+                    "position": "MID",
+                    "appearances": 22,
+                    "goals": 1  
+                },
+                
+                {
+                    "squadnumber": 9,
+                    "image": "https://nwcfl.com/images/crests/transparent/24.png",
+                    "name": "Deklan Hill",
+                    "age": 24,
+                    "position": "FOR",
+                    "appearances": 22,
+                    "goals": 1  
+                },
+                
+                {
+                    "squadnumber": 10,
+                    "image": "https://nwcfl.com/images/crests/transparent/24.png",
+                    "name": "Josh Nicholson",
+                    "age": 24,
+                    "position": "FOR",
+                    "appearances": 22,
+                    "goals": 1  
+                },
+                
+                {
+                    "squadnumber": 11,
+                    "image": "https://nwcfl.com/images/crests/transparent/24.png",
+                    "name": "Nathan Beca",
+                    "age": 24,
+                    "position": "FOR",
+                    "appearances": 22,
+                    "goals": 1  
+                },
+                
+                {
+                    "squadnumber": 12,
+                    "image": "https://nwcfl.com/images/crests/transparent/24.png",
+                    "name": "Jonathan Sodhi",
+                    "age": 24,
+                    "position": "FOR",
+                    "appearances": 22,
+                    "goals": 1  
+                },
+                
+                {
+                    "squadnumber": 14,
+                    "image": "https://nwcfl.com/images/crests/transparent/24.png",
+                    "name": "Emmanuel Ujahchuku",
+                    "age": 24,
+                    "position": "FOR",
+                    "appearances": 22,
+                    "goals": 1  
+                },
+                
+                {
+                    "squadnumber": 15,
+                    "image": "https://nwcfl.com/images/crests/transparent/24.png",
+                    "name": "Niall Partridge",
+                    "age": 24,
+                    "position": "FOR",
+                    "appearances": 22,
+                    "goals": 1  
+                },
+                
+                {
+                    "squadnumber": 16,
+                    "image": "https://nwcfl.com/images/crests/transparent/24.png",
+                    "name": "Declan Wildman",
+                    "age": 24,
+                    "position": "FOR",
+                    "appearances": 22,
+                    "goals": 1  
+                },
+                
+                {
+                    "squadnumber": 17,
+                    "image": "https://nwcfl.com/images/crests/transparent/24.png",
+                    "name": "Joseph Barlow",
+                    "age": 24,
+                    "position": "FOR",
+                    "appearances": 22,
+                    "goals": 1  
+                }  
+            ]
+        }
+    }
+}
