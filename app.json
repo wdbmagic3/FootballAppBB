@@ -1,31 +1,31 @@
 {
   "expo": {
-    "name": "DarwenFC",
-    "slug": "DarwenFC",
+    "name": "FootballAppBB",
+    "slug": "footballappbb",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "scheme": "darwenfc",
+    "scheme": "footballappbb",
     "userInterfaceStyle": "automatic",
     "splash": {
-      "image": "./assets/DarwenFCSplash.png",
+      "image": "./assets/FootballAppBBSplash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.wdbmagic.darwenfc",
+      "bundleIdentifier": "com.wdbmagic.footballappbb",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
       }
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/DarwenFCLogo.png",
+        "foregroundImage": "./assets/FootballAppBBLogo.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.wdbmagic.darwenfc",
+      "package": "com.wdbmagic.footballappbb",
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false
     },
@@ -38,7 +38,7 @@
       [
         "expo-splash-screen",
         {
-          "image": "./assets/DarwenFCSplash.png",
+          "image": "./assets/FootballAppBBSplash.png",
           "imageWidth": 200,
           "resizeMode": "contain",
           "backgroundColor": "#ffffff",
