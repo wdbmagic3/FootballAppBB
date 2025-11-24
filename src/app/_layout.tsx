@@ -26,7 +26,7 @@ export default function RootLayout() {
   const [fixtureData, setFixtureData] = useState<Fixture[]>([]);
   const [teamData, setTeamData] = useState<TeamList>([]);
   const [refreshBool, setRefreshBool] = useState(false);
-  const [dataSource, setDataSource] = useState(DataSource.Darwen);
+  const [dataSource, setDataSource] = useState(DataSource.BamberBridge);
   const [previouslyLoaded] = useState<{source: DataSource, fixtureData: Fixture[]}[]>([])
 
   useEffect(() => {

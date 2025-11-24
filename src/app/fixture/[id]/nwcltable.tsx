@@ -1,9 +1,26 @@
-import { View, Text, FlatList, StyleSheet } from 'react-native';
-import React, { useContext } from 'react';
+import React from "react";
+import { View } from "react-native";
+import { WebView } from "react-native-webview";
+
+export default function TableStandings() {
+  return (
+    <View style={{ flex: 1 }}>
+      <WebView 
+        source={{ uri: "https://www.thenpl.co.uk/tables" }} 
+        style={{ flex: 1 }}
+      />
+    </View>
+  );
+}
+
+
+/*import React, { useContext } from 'react';
+
+import { FlatList, StyleSheet, Text, View } from 'react-native';
 import LeagueTableListItem from '../../../components/LeagueTableListItem';
+import { SourceToColours } from '../../../Constants/DataSources';
 import { Acf } from '../../../functions/team-interfaces';
 import { DataContext, TeamContext } from '../../_layout';
-import { SourceToColours } from '../../../Constants/DataSources';
 
 const TableStandings = () => {
   const {teamData} = useContext(TeamContext)
@@ -40,7 +57,7 @@ const TableStandings = () => {
       data={acfData}
       renderItem={({ item, index }) => <LeagueTableListItem item={item} position={index + 1} />}
     />
-    {/* 👇 Add this footer */}
+    
     <Text style={styles.updatedText}>Last updated: Wednesday 5 November 2025</Text>
     </>
   );
@@ -119,5 +136,5 @@ const styles = StyleSheet.create({
     color: '#000000',
     fontStyle: 'italic',
   },
-});
+});*/
 

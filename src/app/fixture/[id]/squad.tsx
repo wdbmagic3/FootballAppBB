@@ -1,6 +1,6 @@
 import React from 'react';
 import { FlatList } from 'react-native';
-import tablePlayersResponse from '../../../../assets/data/DarwenPlayers.json';
+import tablePlayersResponse from '../../../../assets/data/BBPlayers.json';
 import PlayerListItem from '../../../components/PlayerListItem';
 const tablePlayers = tablePlayersResponse.data.tablePlayers.response;
 

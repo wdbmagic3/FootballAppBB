@@ -10,7 +10,7 @@
                 {
                     "squadnumber": 1,
                     "image": "https://nwcfl.com/images/crests/transparent/24.png",
-                    "name": "Louis Hood",
+                    "name": "Player 1",
                     "age": 24,
                     "position": "GK",
                     "appearances": 11,
@@ -19,18 +19,18 @@
 
                 {
                     "squadnumber": 2,
-                    "image": "https://nwcfl.com/images/crests/transparent/24.png",
-                    "name": "Josh Knowles",
+                    "image": "https://clubs.footballwebpages.co.uk/BamberBridge/images/5261-528.jpeg",
+                    "name": "Christopher Churchman",
                     "age": 24,
-                    "position": "GK",
-                    "appearances": 0,
-                    "goals": 0  
+                    "position": "DEF",
+                    "appearances": 4,
+                    "goals": 1  
                 },
 
                 {
                     "squadnumber": 3,
                     "image": "https://nwcfl.com/images/crests/transparent/24.png",
-                    "name": "Pawel Zuk",
+                    "name": "Player",
                     "age": 24,
                     "position": "DEF",
                     "appearances": 22,
@@ -40,7 +40,7 @@
                 {
                     "squadnumber": 4,
                     "image": "https://nwcfl.com/images/crests/transparent/24.png",
-                    "name": "Nano Baptista",
+                    "name": "Player Name",
                     "age": 24,
                     "position": "DEF",
                     "appearances": 22,
@@ -50,7 +50,7 @@
                 {
                     "squadnumber": 5,
                     "image": "https://nwcfl.com/images/crests/transparent/24.png",
-                    "name": "Samuel Ogundare",
+                    "name": "Player Name",
                     "age": 24,
                     "position": "DEF",
                     "appearances": 22,
@@ -60,7 +60,7 @@
                 {
                     "squadnumber": 6,
                     "image": "https://nwcfl.com/images/crests/transparent/24.png",
-                    "name": "Anthony Hodges",
+                    "name": "Player Name",
                     "age": 24,
                     "position": "DEF",
                     "appearances": 22,
@@ -70,7 +70,7 @@
                 {
                     "squadnumber": 7,
                     "image": "https://nwcfl.com/images/crests/transparent/24.png",
-                    "name": "Akim Samms",
+                    "name": "Player Name",
                     "age": 24,
                     "position": "MID",
                     "appearances": 22,
@@ -80,7 +80,7 @@
                 {
                     "squadnumber": 8,
                     "image": "https://nwcfl.com/images/crests/transparent/24.png",
-                    "name": "Luke Crompton",
+                    "name": "Player Name",
                     "age": 24,
                     "position": "MID",
                     "appearances": 22,
@@ -90,7 +90,7 @@
                 {
                     "squadnumber": 9,
                     "image": "https://nwcfl.com/images/crests/transparent/24.png",
-                    "name": "Nathan Bond",
+                    "name": "Player Name",
                     "age": 24,
                     "position": "FOR",
                     "appearances": 22,
@@ -100,7 +100,7 @@
                 {
                     "squadnumber": 10,
                     "image": "https://nwcfl.com/images/crests/transparent/24.png",
-                    "name": "Bruno De Almeida Severino",
+                    "name": "Player Name",
                     "age": 24,
                     "position": "FOR",
                     "appearances": 22,
@@ -110,7 +110,7 @@
                 {
                     "squadnumber": 11,
                     "image": "https://nwcfl.com/images/crests/transparent/24.png",
-                    "name": "Joshua Abbott",
+                    "name": "Player Name",
                     "age": 24,
                     "position": "FOR",
                     "appearances": 22,
@@ -120,7 +120,7 @@
                 {
                     "squadnumber": 12,
                     "image": "https://nwcfl.com/images/crests/transparent/24.png",
-                    "name": "Bobby Langford",
+                    "name": "Player Name",
                     "age": 24,
                     "position": "FOR",
                     "appearances": 22,
@@ -130,7 +130,7 @@
                 {
                     "squadnumber": 14,
                     "image": "https://nwcfl.com/images/crests/transparent/24.png",
-                    "name": "Kit Lloyd",
+                    "name": "Player Name",
                     "age": 24,
                     "position": "FOR",
                     "appearances": 22,
@@ -140,7 +140,7 @@
                 {
                     "squadnumber": 15,
                     "image": "https://nwcfl.com/images/crests/transparent/24.png",
-                    "name": "Jack Gooden",
+                    "name": "Player Name",
                     "age": 24,
                     "position": "FOR",
                     "appearances": 22,
@@ -150,7 +150,7 @@
                 {
                     "squadnumber": 16,
                     "image": "https://nwcfl.com/images/crests/transparent/24.png",
-                    "name": "Bobby Sixsmith",
+                    "name": "Player Name",
                     "age": 24,
                     "position": "FOR",
                     "appearances": 22,
@@ -160,7 +160,7 @@
                 {
                     "squadnumber": 17,
                     "image": "https://nwcfl.com/images/crests/transparent/24.png",
-                    "name": "Abdullah Zaffar",
+                    "name": "Player Name",
                     "age": 24,
                     "position": "FOR",
                     "appearances": 22,

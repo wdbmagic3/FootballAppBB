@@ -1,9 +1,9 @@
-import { Stack, withLayoutContext } from "expo-router";
 import { createMaterialTopTabNavigator } from "@react-navigation/material-top-tabs";
-import { DataSource, SourceToColours } from "../../../Constants/DataSources";
+import { Stack, withLayoutContext } from "expo-router";
 import { useContext } from "react";
+import { Text, TouchableOpacity, View } from "react-native";
+import { SourceToColours } from "../../../Constants/DataSources";
 import { DataContext } from "../../_layout";
-import { View, TouchableOpacity, Text } from "react-native";
 
 const Tab = createMaterialTopTabNavigator();
 const TopTabs = withLayoutContext(Tab.Navigator);
@@ -78,8 +78,8 @@ export default function MatchLayout() {
         }}
       >
         <TopTabs.Screen name="index" options={{ title: "Details" }} />
-        <TopTabs.Screen name="squad" options={{ title: "Squad" }} redirect={dataSource === DataSource.BamberBridge} />
-        <TopTabs.Screen name="nwcltable" options={{ title: "Table" }} redirect={dataSource === DataSource.BamberBridge} />
+        <TopTabs.Screen name="squad" options={{ title: "Squad" }} />
+        <TopTabs.Screen name="nwcltable" options={{ title: "Table" }} />
         <TopTabs.Screen name="stats" options={{ title: "About" }} />
         <TopTabs.Screen name="form" options={{ title: "Matchday" }} />
         <TopTabs.Screen name="media" options={{ title: "History" }} />

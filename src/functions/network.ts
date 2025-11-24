@@ -8,7 +8,7 @@ export const getFixtures = async (source: DataSource) => {
       url = 'https://footballclubwebsites.com/wp-json/wp/v2/fixture?per_page=100';
     }
     else if (source == DataSource.BamberBridge) {
-      url = 'https://v3.football.api-sports.io/fixtures?season=2024&team=7695'
+      url = 'https://v3.football.api-sports.io/fixtures?season=2025&team=7695'
       init = {
         method: 'GET',
         headers: {
